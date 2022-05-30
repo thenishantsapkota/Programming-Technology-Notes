@@ -18,11 +18,13 @@ It necessarily doesn't need the resources provided by the server and can run its
 
 Example of Thick Client: Computer
 
+### Thin Client
+
 On the other hand, a thin client is a type of client which is heavily dependent on the resources provided by the server. It always relies on the server to do smalles of things for its own.
 
 Example of Thin Client: Web Browser
 
-# Tools Required
+# Tools Required Java Development
 
 1. JDK(Java Development Kit) => >=v17.0<18
 2. Apache NetBeans(IDE) => v13
