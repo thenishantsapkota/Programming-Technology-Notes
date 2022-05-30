@@ -64,7 +64,7 @@
     transition: transform 0.25s cubic-bezier(0.7, 0.98, 0.86, 0.98), box-shadow 0.25s cubic-bezier(0.7, 0.98, 0.86, 0.98);
     background-color: #fff;
   }
-  
+
   @media (hover: hover) and (pointer: fine) {
   .notes__profile:hover {
     transform: scale(1.2);
@@ -93,7 +93,7 @@
   .notes__value > span {
     opacity: 0.8;
     font-weight: 600;
-    font-size: 10px;
+    font-size: 14px;
     margin-left: 3px;
   }
   
