@@ -4,6 +4,8 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - note.md
+  - ./markdown/note.md
+  - ./markdown/practicals1.md
+  - ./markdown/unit1.md
 
 theme: jekyll-theme-cayman
