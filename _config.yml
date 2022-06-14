@@ -8,4 +8,4 @@ include:
   - ./markdown/practicals1.md
   - ./markdown/unit1.md
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
