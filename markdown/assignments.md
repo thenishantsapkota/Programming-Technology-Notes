@@ -4,7 +4,7 @@
 
 1. `equals()` method: This method is used to compare two strings for their equality. Returns true if the strings are equal else returns false.
    
-   ### Example:
+    **:**
    ```java
     class EqualsTesting{
         public static void main(String[] args){
@@ -18,7 +18,7 @@
 
 2. `concat()` method: This method is used to concatenate two strings together.
 
-    ### Example:
+    **Example:**
     ```java
     class ConcatTesting{
         public static void main(String[] args){
@@ -32,7 +32,7 @@
 
 3. `toUpperCase()` method: This method is used to convert any string to its uppercase form. If string is `nishant` it will be converted to `NISHANT`.
 
-    ### Example
+    **Example:**
     ```java
     class UppercaseTesting{
         public static void main(String[] args){
@@ -45,7 +45,7 @@
 
 4. `toLowerCase()` method: This method is used to convert any string to its lowercase form. If a string is `NISHANT` it will be converted to `nishant`.
 
-    ### Example
+    **Example:**
     ```java
     class LowercaseTesting{
         public static void main(String[] args){
@@ -58,7 +58,7 @@
 
 5. `length()` method: This method is used to get the length of the string.
    
-   ### Example
+   **Example:**
    ```java
     class LengthTesting{
         public static void main(String[] args){
@@ -71,7 +71,7 @@
 
 6.  `round()` method: This method is used to round a floating point value to the nearest integer value. If 11.4, it will round to 11. If 11.6, it will round to 12
 
-   ### Example:
+   **Example:**
    ```java
     class RoundTesting{
         public static void main(String[] args){
@@ -86,7 +86,7 @@
 
 7. `random()` method: This method is used to generate a random number.
 
-    ### Example:
+    **Example:**
     ```java
     class RandomTesting{
          public static void main(String[] args){
@@ -97,7 +97,7 @@
 
 8. `isDigit()` method: This method is used to check whether a given character is a digit or not. It returns true if it is a digit else returns false.
 
-    ### Example:
+    **Example:**
     ```java
     class DigitTesting{
         public static void main(String[] args){
@@ -112,7 +112,7 @@
 
 9. `isLetter()` method: This method is used to check whether a given character is a letter or not. It returns true if it is a letter else returns false.
     
-    ### Example:
+    **Example:**
     ```java
     class LetterTesting{
         public static void main(String[] args){
@@ -127,7 +127,7 @@
 
 10. `min()` method: This method is used to get minimum values between two numbers.
 
-    ### Example:
+    **Example:**
     ```java
     class MinTesting{
         public static void main(String[] args){
