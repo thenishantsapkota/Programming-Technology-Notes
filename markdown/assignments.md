@@ -29,6 +29,7 @@
         }
     }
     ```
+
 3. `toUpperCase()` method: This method is used to convert any string to its uppercase form. If string is `nishant` it will be converted to `NISHANT`.
 
     ### Example
@@ -41,6 +42,7 @@
         }
     }
     ```
+
 4. `toLowerCase()` method: This method is used to convert any string to its lowercase form. If a string is `NISHANT` it will be converted to `nishant`.
 
     ### Example
